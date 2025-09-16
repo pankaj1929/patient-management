@@ -23,7 +23,7 @@ target/
 build/
 
 # IntelliJ IDEA project files
-.idea/
+*.idea
 *.iml
 *.iws
 
@@ -34,7 +34,6 @@ build/
 
 # NetBeans project files
 nbproject/private/
-build/
 nbbuild/
 dist/
 nbdist/
