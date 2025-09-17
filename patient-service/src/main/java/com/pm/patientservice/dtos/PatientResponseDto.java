@@ -1,10 +1,7 @@
-package com.pm.patientservice.response;
+package com.pm.patientservice.dtos;
 
 import lombok.Builder;
 import lombok.Getter;
-
-import java.time.LocalDate;
-import java.util.UUID;
 
 @Builder
 @Getter
